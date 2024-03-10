@@ -6,7 +6,7 @@ import {
   HttpsConstructor,
   ListenServerType,
   OptionsHttps,
-} from "../../types";
+} from "../types";
 
 /**
  * Clase para hacer uso del cliente https de node.js

@@ -6,6 +6,6 @@
 
 import express from "express";
 import picocolors from "picocolors";
-import { PORT } from "../constants";
+import { PORT } from "./constants";
 
 const app = express();
